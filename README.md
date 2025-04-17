@@ -45,4 +45,4 @@ utils.py — helper functions
 - Alignment algorithm — fastdtw
 - Simple Ukrainian word dictionary → phoneme dictionary
 
-**🎓 Created as a personal dtudying project.**
+**🎓 Created as a personal studying project.**
